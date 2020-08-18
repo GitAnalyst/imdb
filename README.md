@@ -1,0 +1,1 @@
+This repository explores [IMDB movies extensive dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset). Data from Kaggle is extracted to "data/" path but not stored in the repository.
